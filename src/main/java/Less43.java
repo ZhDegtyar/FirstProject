@@ -3,7 +3,7 @@
 //использовать конструкцию if для определения кратности (цикл с шагом 1, i = i + 1);
 //без использования конструкции if (шаг цикла на ваше усмотрение).
 
-public class Less43 {
+public class   Less43 {
     public static void main(String[] args) {
 
 //        int a = 40;

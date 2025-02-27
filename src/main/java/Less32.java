@@ -8,7 +8,7 @@ public class Less32 {
     public static void main(String[] args) {
         int a = 51;
         int b = 22;
-        if ((a + b) % 2 == 0) {
+        if ((a + b) % 2.0 == 0) {
             System.out.println("maybe a and b are even");
         }
         System.out.println("some variable is odd");
